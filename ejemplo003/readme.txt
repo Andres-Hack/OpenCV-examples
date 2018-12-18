@@ -1,0 +1,3 @@
+ESTE EJEMPLO PODEMOS HACER LA PRUENBA CONEL SIGUIENTE COMANDO :
+
+>> python test.js captcha.png
